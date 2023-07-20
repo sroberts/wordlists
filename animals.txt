@@ -1,3 +1,5 @@
+aardvark
+aardwolf
 abyssinian
 albatross
 alligator
@@ -15,6 +17,7 @@ bear
 beaver
 bee
 beetle
+binturong
 bird
 bison
 boar
@@ -23,12 +26,15 @@ bombay
 bongo
 bonobo
 booby
+brown hyena
 buffalo
 bulldog
 bullfrog
 butterfly
 camel
+capercaillie
 capybara
+caribou
 cat
 caterpillar
 catfish
@@ -62,6 +68,7 @@ eagle
 earwig
 eel
 elephant
+elk
 emu
 falcon
 ferret
@@ -94,8 +101,6 @@ horse
 hound
 howler monkey
 hummingbird
-hyena
-i
 ibis
 iguana
 jackal
@@ -115,7 +120,6 @@ lizard
 llama
 lobster
 lynx
-m
 macaque
 macaw
 mammoth
@@ -164,9 +168,11 @@ rabbit
 raccoon
 rat
 rattlesnake
+red deer
 reindeer
 rhinoceros
 robin
+roe deer
 salamander
 scorpion
 seahorse
@@ -180,10 +186,12 @@ snail
 snake
 sparrow
 sponge
+spotted hyena
 squid
 squirrel
 stingray
 stoat
+striped hyena
 swan
 tamarin
 tapir
@@ -203,6 +211,7 @@ warthog
 wasp
 weasel
 whale
+white-tailed deer
 wildebeest
 wolf
 wolfhound
